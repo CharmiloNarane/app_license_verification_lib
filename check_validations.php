@@ -89,7 +89,7 @@
                             if (mysqli_num_rows($result) > 0) {
                         ?>
                             <div style="height: 400px; width: 900px; overflow: scroll;"> 
-                                <table class='table table-stripped'>
+                                <table class='table table-stripped table-bordered'>
                                 
                                     <tr class="bg-dark text-white">
                                     <td><strong>No</strong></td>

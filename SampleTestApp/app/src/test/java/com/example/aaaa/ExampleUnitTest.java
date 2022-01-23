@@ -1,4 +1,4 @@
-package com.example.samplelibtest;
+package com.example.aaaa;
 
 import org.junit.Test;
 
